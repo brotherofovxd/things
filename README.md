@@ -11,11 +11,12 @@ This is a script for drawing spiral in Turtle.
 This is a script for you to convert youtube songs to mp3 files and then play it
 ## requirements
 **Modules you would need to install**
-*You can install all these by running this command:*
-
-`pip install youtube-dl, playsound, urllib, requests, bs4`
 * youtube_dl
 * playsound
 * urllib
 * requests
 * bs4
+
+*You can install all these by running this command:*
+
+`pip install youtube-dl, playsound, urllib, requests, bs4`
